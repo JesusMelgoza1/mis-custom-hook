@@ -9,5 +9,5 @@ EJEMPLO:
         email: ''
     }
 ```
-    const {formValues, handleInputChange,reset} = useForm(intialForm)
+    const [formValues, handleInputChange,reset] = useForm(intialForm)
 ```
